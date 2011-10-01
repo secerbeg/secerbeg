@@ -1,0 +1,2 @@
+serviceClass: mainview.client.DBConnection
+path: BF89F5DC8B71DE68ED13EE99C1758DDB.gwt.rpc

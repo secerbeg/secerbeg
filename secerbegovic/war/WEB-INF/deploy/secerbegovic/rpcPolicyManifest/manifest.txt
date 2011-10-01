@@ -1,0 +1,3 @@
+# Module secerbegovic
+# RPC service class, partial path of RPC policy file
+mainview.client.DBConnection, BF89F5DC8B71DE68ED13EE99C1758DDB.gwt.rpc
